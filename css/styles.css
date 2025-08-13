@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #343a40;
+}
+
+h1, h2, h3 {
+    color: #007bff;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #343a40;
+    color: white;
+}
+
+.btn-custom {
+    background-color: #28a745;
+    color: white;
+}
+
+.btn-custom:hover {
+    background-color: #218838;
+}
